@@ -6,7 +6,8 @@ blue
 =======
 orange
 purple
-
 ###brown
+violet
+apricot
 
 
