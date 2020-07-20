@@ -2,8 +2,9 @@ red
 pink
 green
 yellow
-<<<<<<< HEAD
 blue
 =======
 orange
->>>>>>> 6c999e045a9808a549da57ec77c810ca0fb79fda
+###brown
+
+
